@@ -70,11 +70,17 @@ Pasta `reusableComponents`:
 Dentro da ordenação, existe a seguinte hierarquia: Funções > Componentes > Imagens > Ícones e Estilos.
 
 1° Importações do `React`
+
 2° Importações de `api` e `context` 
-2° Importações de `Node Modules`
-3° Importações de `reusableComponents`
-4° Importações .jsx de outros lugares
-5° Importações de Imagens
-6° Importações de Estilos
+
+3° Importações de `Node Modules`
+
+4° Importações de `reusableComponents`
+
+5° Importações .jsx de outros lugares
+
+6° Importações de Imagens
+
+7° Importações de Estilos
 
 OBS.: Uma vez que se saia de um nível da hierarquia para o outro é preciso pular uma linha.
